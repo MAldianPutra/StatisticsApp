@@ -1,0 +1,7 @@
+E:\Projects\C# Projects\StatisticsApp\StatisticsApp\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+E:\Projects\C# Projects\StatisticsApp\StatisticsApp\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+E:\Projects\C# Projects\StatisticsApp\StatisticsApp\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+E:\Projects\C# Projects\StatisticsApp\StatisticsApp\ConsoleApp1\obj\Debug\App.csprojResolveAssemblyReference.cache
+E:\Projects\C# Projects\StatisticsApp\StatisticsApp\ConsoleApp1\obj\Debug\App.csproj.CoreCompileInputs.cache
+E:\Projects\C# Projects\StatisticsApp\StatisticsApp\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+E:\Projects\C# Projects\StatisticsApp\StatisticsApp\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
